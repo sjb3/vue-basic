@@ -1,14 +1,16 @@
 # Vue.Js try-out
 
+### Adopted from Traversy Media( youTube tut)
+
 ### Basic concept of Vue.Js
 
-..* Works in the ‘view layer’ only
+* Works in the ‘view layer’ only *
 
-..* Incrementally adoptable
+* Incrementally adoptable *
 
-..* Easily integrated into other projects/libraries
+* Easily integrated into other projects/libraries *
 
-..* Capable of powering advanced SPAs
+* Capable of powering advanced SPAs *
 
 ### Vue-CLI tool
 ( recommended )
