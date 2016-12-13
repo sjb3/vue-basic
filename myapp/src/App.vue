@@ -1,16 +1,22 @@
 <template>
   <div id="app">
     <img src="./assets/bowie.jpg" />
+    <!--<audio controls>
+      <source type="audio/mpeg" src="./assets/dance.mp3" />
+    </audio>-->
     <test></test>
+    <users></users>
   </div>
 </template>
 
 <script>
-import Test from './components/test'
+import Test from './components/test';
+import Users from './components/users';
 export default {
   name: 'app',
   components: {
-    Test
+    Test,
+    Users
   }
 }
 </script>
